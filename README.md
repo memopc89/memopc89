@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @memopc89
 - 👀 I’m interested in traffic simulation and transport modelling.
-- 📫 You can reach me at guillermo.perez.castro@vti.se or guillermo.perez.castro@liu.se
+- 📫 You can reach me at guillermo.perez.castro@vti.se
